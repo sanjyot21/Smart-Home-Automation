@@ -9,5 +9,10 @@ Our project is made for hand free technology as we have a voice controller in ou
 
 **************************************************************
 
+For Connecting the Bluetooth Module with Mobile Application, download the App from Google PlayStore:
+https://play.google.com/store/apps/details?id=com.himanshu.ArduinoAutomation 
+
+**************************************************************
+
 For Complete Working of Automation, refer the following video:
 https://youtu.be/6icUP-ZiZ6o
