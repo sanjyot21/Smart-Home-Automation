@@ -8,7 +8,6 @@ Our project is also design to save energy as a person can say to switch on or of
 Our project is made for hand free technology as we have a voice controller in our application.
 
 ## Requirements
-* Requirements
 * Arduino Uno board
 * Breadboard and jumper wires
 * Sensors and modules (e.g. temperature and humidity sensor, motion sensor, relay module)
